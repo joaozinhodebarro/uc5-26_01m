@@ -8,7 +8,7 @@ the children ARE playing outside.
 I'M from brazil.
 she IS a doctor.
 my cat IS black.
-my brother IS in the kitchen.
+my mother IS in the kitchen.
 the teachers ARE in the classroom.
 he IS at home now.
 HE'S a good student.
