@@ -1,9 +1,9 @@
-my dog she IS sleepin?
-we you ARE   ready for the test?
-you ARE my best fried?
+she my dog  IS sleepin?
+ARE we you  ready for the test?
+ARE  you  my best fried?
 
-the children ARE playing outside.
-I'M from brazil.
+the children ARE playing outside. -> are the children playing outside?
+I'M from brazil.-> AM'I from brazil?
 she IS a doctor.
 my cat IS black.
 my mother IS in the kitchen.
